@@ -58,7 +58,7 @@ These are some of the images of the pages in the website:
 
 
 ## Author
-This website is built by Sharon Mukenga https://github.com/Sa-na-yia-n/anitaskitchen.git
+This website is built by Sanayin sharon https://github.com/Sa-na-yia-n/anitaskitchen.git
 
 ## ISSUES
 There are no known issues
@@ -66,7 +66,7 @@ There are no known issues
 ## LICENSE
 MIT License
 
-Copyright (c) 2023 Sharon Mukenka
+Copyright (c) 2023 Sanayian sharon
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
