@@ -1,5 +1,5 @@
 # Anitaskitchen Website
-This is a HTML and CSS website about a Anitas kitchen whereby it has a navigation bar that enables one to be able to go the different pages of the website.The website has a gallery page that shows the food and drinks that are on offer, a contact page whwereby users are able to subscribe by entering their email address it has an about page that has details abut our customers and their reviews and it also has a menu page that shows the different foods and drinks that are on offer.heres is the link to the live page  https://davidle30.github.io/Anitas-kitchen./
+This is a HTML and CSS website about a Anitas kitchen whereby it has a navigation bar that enables one to be able to go the different pages of the website.The website has a gallery page that shows the food and drinks that are on offer, a contact page whwereby users are able to subscribe by entering their email address it has an about page that has details abut our customers and their reviews and it also has a menu page that shows the different foods and drinks that are on offer.heres is the link to the live page  https://github.com/Sa-na-yia-n/anitaskitchen.git
 
 ## TOOLS USED TO CREATE
 This website was built with the following tools:
@@ -28,14 +28,13 @@ This is how you will be able to setup and be able to run this code on your compu
 
 1.First you will open the google chrome in your computer and your git hub account.
 
-2.Once you are in your git hub account you write this repository   in your search box in the github account.
-https://github.com/Davidle30/Anitas-kitchen..git
+2.Once you are in your git hub account you write this repository   in your search box in the github account.https://github.com/Sa-na-yia-n/anitaskitchen.git
 3.After you have clicked on the repository you click the blue link with the word code on it.
 
 4.Once you have done that you should open your terminal and write the following
 
 \\\
-https://github.com/Davidle30/Anitas-kitchen..git
+https://github.com/Sa-na-yia-n/anitaskitchen.git
 
 \\\
 
@@ -59,7 +58,7 @@ These are some of the images of the pages in the website:
 
 
 ## Author
-This website is built by Janice Kinyua https://github.com/Davidle30/Anitas-kitchen..git
+This website is built by Sharon Mukenga https://github.com/Sa-na-yia-n/anitaskitchen.git
 
 ## ISSUES
 There are no known issues
@@ -67,7 +66,7 @@ There are no known issues
 ## LICENSE
 MIT License
 
-Copyright (c) 2023 DAVID LETEIPA
+Copyright (c) 2023 Sharon Mukenka
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
