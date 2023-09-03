@@ -1,5 +1,5 @@
 # Anitaskitchen Website
-This is a HTML and CSS website about a Anitas kitchen whereby it has a navigation bar that enables one to be able to go the different pages of the website.The website has a gallery page that shows the food and drinks that are on offer, a contact page whwereby users are able to subscribe by entering their email address it has an about page that has details abut our customers and their reviews and it also has a menu page that shows the different foods and drinks that are on offer.heres is the link to the live page  https://github.com/Sa-na-yia-n/anitaskitchen.git
+This is a HTML and CSS website about a Anitas kitchen whereby it has a navigation bar that enables one to be able to go the different pages of the website.The website has a gallery page that shows the food and drinks that are on offer, a contact page whwereby users are able to subscribe by entering their email address it has an about page that has details abut our customers and their reviews and it also has a menu page that shows the different foods and drinks that are on offer.heres is the link to the live page  https://sa-na-yia-n.github.io/anitaskitchen/
 
 ## TOOLS USED TO CREATE
 This website was built with the following tools:
